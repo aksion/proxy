@@ -21,12 +21,12 @@ Create a `.env` file and set up your proxy server.
 
 ### Example .env
 
-    ```ini
-    PROXY_HOST = "127.0.0.1"
-    PROXY_PORT = 8232
-    BASE_URL = "https://news.ycombinator.com"
-    SYMBOL = "™"
-    ```
+ ```ini
+ PROXY_HOST = "127.0.0.1"
+ PROXY_PORT = 8232
+ BASE_URL = "https://news.ycombinator.com"
+ SYMBOL = "™"
+ ```
 
 Edit the values in the `.env` file according to your requirements.
 
@@ -34,9 +34,9 @@ Edit the values in the `.env` file according to your requirements.
 
 Run the proxy server using the following command:
 
-    ```bash
-    python3 proxy.py
-    ```
+ ```bash
+ python3 proxy.py
+ ```
 
 ## Use
 
