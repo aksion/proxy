@@ -42,7 +42,3 @@ Run the proxy server using the following command:
 
 Make sure the proxy server is running before you use it.
 By default, call [http://127.0.0.1:8232](http://127.0.0.1:8232) page in browser.
-
-## Demo
-
-To see how the proxy works, open this [demo page](https://proxy.aksion.me) in your browser.
